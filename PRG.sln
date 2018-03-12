@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG", "AssertDemo\PRG.cspro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRG.Tests", "AssertDemo.Tests\PRG.Tests.csproj", "{AC460B49-9B9A-4DAB-AC57-1DFD9DAA5A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{E2E954A1-9F0D-4B15-BAE1-25C6FB3E682B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{AC460B49-9B9A-4DAB-AC57-1DFD9DAA5A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC460B49-9B9A-4DAB-AC57-1DFD9DAA5A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC460B49-9B9A-4DAB-AC57-1DFD9DAA5A5C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E2E954A1-9F0D-4B15-BAE1-25C6FB3E682B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2E954A1-9F0D-4B15-BAE1-25C6FB3E682B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2E954A1-9F0D-4B15-BAE1-25C6FB3E682B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2E954A1-9F0D-4B15-BAE1-25C6FB3E682B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
